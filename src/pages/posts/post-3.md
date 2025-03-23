@@ -8,4 +8,8 @@ image:
 pubDate: 2022-07-15
 tags: ["astro", "learning in public", "setbacks", "community"]
 ---
+# My Third Blog Post
+
+Published on: 2025-03-23
+
 It wasn't always smooth sailing, but I'm enjoying building with Astro. And, the [Discord community](https://astro.build/chat) is really friendly and helpful!
